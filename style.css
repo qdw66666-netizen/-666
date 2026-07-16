@@ -1,0 +1,6 @@
+body{margin:0;background:#111;color:#fff;font-family:-apple-system,BlinkMacSystemFont,"PingFang SC"}
+.card{margin:20px;padding:22px;background:#1d1d1f;border-radius:22px}
+span{color:#c8a66a}
+.grid{display:grid;grid-template-columns:1fr 1fr;gap:12px}
+a,button{background:#c8a66a;color:#111;padding:14px;border-radius:12px;text-align:center;text-decoration:none;display:block;margin:8px 0}
+input{width:100%;padding:12px;background:#222;color:#fff;border-radius:10px}
